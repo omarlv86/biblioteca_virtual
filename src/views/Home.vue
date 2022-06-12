@@ -30,7 +30,9 @@
 
       </v-card>
     </div>
-    <p>Esta biblioteca virtual fue creada para poder compartir libros PDF para los alumnos de la escuela Adolfo López Mateos.</p>
+    <p>Esta biblioteca digital fue diseñada con la finalidad de compartir las diferentes colecciones de libros.<br>
+      con el proposito de promover el gusto por la lectura desde los más pequeños que inician el contacto con los textos, hasta los que ya disfrutan revisar las diferentes historias.
+    </p>
     <a>Ver lista de libros</a>
   </div>
 </template>
